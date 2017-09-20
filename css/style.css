@@ -9,16 +9,37 @@ height:300px;
 padding: 50px;
 }
 .sponsor p{
+    font-family: 'Raleway', sans-serif;
    font-size: 24px;
    margin-bottom:70px;
    font-weight:lighter;
    padding:0 100px;
 }
 .imgbox{
-    width:250px;
-    height:50px;
+    width:231px;
+    height:65px;
     background-color: white;
     margin-right: 30px;
     display: inline-block;
-   
 }
+.transfer{
+    background-color: white;
+    color: #424242;
+    text-align: center;
+    height:300px;
+    padding: 50px;
+    }
+    .transfer p{
+
+    }
+    .transfer img{
+        margin-left: auto;
+    }
+    .button{
+        background-color: orangered;
+        padding: 10px 15px;
+        border-radius: 3px;
+        color:white;
+        font-weight: lighter;
+        font-size:18px;
+    }
