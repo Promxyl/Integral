@@ -1,0 +1,48 @@
+body{
+    margin:80px;
+}
+.whoops{
+    font-weight: bolder;
+    margin-left:200px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.image{
+    position:inherit;
+    left: 70px;
+}
+.errorMessage{
+    font-weight: bolder;
+    text-align: center;
+    padding-left: 20px;
+}
+.message{
+    font-weight: bolder;
+    text-align: center;
+    padding-left:20px;
+    color: grey;
+    padding-bottom: 10px;
+}
+
+.report{
+    color: #fb853b;
+    text-align: left;
+    padding-left: 100px;
+    text-decoration: none;
+}
+.report:hover{
+    text-decoration: none;
+    font-weight: bold;
+    font-style: oblique;
+    color: #fb853b;
+}
+
+.border-curve{
+    position: relative;
+    left: 290px;
+    border-radius:5px;
+    padding-top: 10px;
+    color: white;
+    background-color: #fb853b;
+}
+
