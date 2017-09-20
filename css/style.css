@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   font-size: 20px;
   color: #333333;
@@ -193,3 +194,57 @@ footer {
     margin-bottom: 0;
     text-align: center; }
 
+||||||| merged common ancestors
+=======
+body{
+    margin:5% 10%;
+}
+.sponsor{
+background-color: #424242;
+color:white;
+text-align: center;
+height:300px;
+padding: 50px;
+}
+.sponsor p{
+    font-family: 'Raleway', sans-serif;
+   font-size: 24px;
+   margin-bottom:70px;
+   font-weight:lighter;
+   padding:0 100px;
+}
+.imgbox{
+    width:231px;
+    height:65px;
+    background-color: white;
+    margin-right: 30px;
+    display: inline-block;
+}
+.transfer{
+    background-color: white;
+    color: #424242;
+    text-align: center;
+    height:200px;
+    padding: 50px;
+    }
+    .transfer p{
+            font-family: 'Raleway', sans-serif;
+           font-size: 20px;
+           margin-bottom:70px;
+          font-style: italic;
+           padding:0 100px;
+    }
+    .transfer img{
+        margin-right: -800px;
+        margin-top: -200px;
+    }
+    .button{
+        background-color: orangered;
+        padding: 10px 25px;
+        border-radius: 3px;
+        color:white;
+        font-weight: bold;
+        font-size:18px;
+    }
+    
+>>>>>>> origin/master
